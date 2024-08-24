@@ -1,0 +1,7 @@
+{
+	"providers": [
+		{"type": "space","advances": {"\u0000": 2048,",": -1},"comment": "screen"},
+		{"type": "bitmap","file": "profes:font/actionbar/grid.png","ascent": 1024,"height": 2048,"chars": ["\u0001"]},
+		{"type": "bitmap","file": "profes:font/actionbar/grid.png","ascent": 128,	"height": 256,"chars": ["\u0002"]}
+	]
+}

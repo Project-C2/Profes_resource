@@ -1,0 +1,6 @@
+{
+	"parent": "player_model/parent/steve_sit",
+	"textures": {
+		"0": "entity/player/wide/steve"
+	}
+}

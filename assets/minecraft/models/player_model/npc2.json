@@ -1,0 +1,6 @@
+{
+	"parent": "player_model/parent/steve",
+	"textures": {
+		"0": "player_model/npc2"
+	}
+}

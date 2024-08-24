@@ -1,0 +1,8 @@
+{
+    "providers": [
+	{"type":"bitmap","file":"profes:custom_particle/flash.png","ascent":256,"height":512,"chars":["\ue000"]},
+    {"type":"bitmap","file":"profes:custom_particle/twinkle/0.png","ascent":256,"height":512,"chars":["\ue001"]},
+    {"type":"space","advances":{"\ue002":-256}},
+    {"type":"bitmap","file":"profes:custom_particle/twinkle/1.png","ascent":276,"height":512,"chars":["\ue003"]}
+    ]
+}

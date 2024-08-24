@@ -1,0 +1,15 @@
+{
+    "providers": [
+		{"type":"space","advances":{"\ue000":-8},"comment":"negative_space"},
+		{"type":"space","advances":{"\ue001":-128},"comment":"negative_space"},
+        {
+            "type": "bitmap",
+            "file": "minecraft:reload/3.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue001"
+            ]
+        }
+    ]
+}

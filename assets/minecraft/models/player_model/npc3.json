@@ -1,0 +1,6 @@
+{
+	"parent": "player_model/parent/steve_sit_ground",
+	"textures": {
+		"0": "player_model/npc3"
+	}
+}

@@ -1,0 +1,151 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "block",
+      "prefix": "block/"
+    },
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+        "type": "single",
+        "resource": "entity/bell/bell_body"
+    },
+    {
+        "type": "single",
+        "resource": "entity/decorated_pot/decorated_pot_side"
+    },
+    {
+        "type": "single",
+        "resource": "entity/enchanting_table_book"
+    },
+    {
+        "type": "paletted_permutations",
+        "textures": [
+            "trims/items/leggings_trim",
+            "trims/items/chestplate_trim",
+            "trims/items/helmet_trim",
+            "trims/items/boots_trim"
+        ],
+        "palette_key": "trims/color_palettes/trim_palette",
+        "permutations": {
+            "quartz": "trims/color_palettes/quartz",
+            "iron": "trims/color_palettes/iron",
+            "gold": "trims/color_palettes/gold",
+            "diamond": "trims/color_palettes/diamond",
+            "netherite": "trims/color_palettes/netherite",
+            "redstone": "trims/color_palettes/redstone",
+            "copper": "trims/color_palettes/copper",
+            "emerald": "trims/color_palettes/emerald",
+            "lapis": "trims/color_palettes/lapis",
+            "amethyst": "trims/color_palettes/amethyst",
+            "iron_darker": "trims/color_palettes/iron_darker",
+            "gold_darker": "trims/color_palettes/gold_darker",
+            "diamond_darker": "trims/color_palettes/diamond_darker",
+            "netherite_darker": "trims/color_palettes/netherite_darker"
+        }
+    },
+    {
+      "type": "directory",
+      "source": "accessory",
+      "prefix": "accessory/"
+    },
+    {
+      "type": "directory",
+      "source": "material",
+      "prefix": "material/"
+    },
+    {
+      "type": "directory",
+      "source": "coin",
+      "prefix": "coin/"
+    },
+    {
+      "type": "directory",
+      "source": "enemy",
+      "prefix": "enemy/"
+    },
+    {
+      "type": "directory",
+      "source": "ender_chest_ui",
+      "prefix": "ender_chest_ui/"
+    },
+    {
+      "type": "directory",
+      "source": "instant_heal",
+      "prefix": "instant_heal/"
+    },
+    {
+      "type": "directory",
+      "source": "reload",
+      "prefix": "reload/"
+    },
+    {
+      "type": "directory",
+      "source": "skill_item",
+      "prefix": "skill_item/"
+    },
+    {
+      "type": "directory",
+      "source": "weapon",
+      "prefix": "weapon/"
+    },
+    {
+      "type": "directory",
+      "source": "offhand",
+      "prefix": "offhand/"
+    },
+    {
+      "type": "directory",
+      "source": "player_model",
+      "prefix": "player_model/"
+    },
+    {
+      "type": "directory",
+      "source": "storage_icon",
+      "prefix": "storage_icon/"
+    },
+    {
+      "type": "directory",
+      "source": "system",
+      "prefix": "system/"
+    },
+    {
+      "type": "directory",
+      "source": "particle/explosion",
+      "prefix": "particle/explosion/"
+    },
+    {
+      "type": "directory",
+      "namespace":"antelope",
+      "source": "-001.forge",
+      "prefix": "-001.forge/"
+    },
+    {
+      "type": "directory",
+      "namespace":"antelope",
+      "source": "hats",
+      "prefix": "hats/"
+    },
+    {
+      "type": "directory",
+      "namespace":"antelope",
+      "source": "custom_particle",
+      "prefix": "custom_particle/"
+    },
+    {
+      "type": "directory",
+      "namespace":"antelope",
+      "source": "manual",
+      "prefix": "manual/"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent":"system/teleport_crystal/blue",
+	"textures": {
+		"1": "system/teleport_crystal/yellow"
+	}
+}
