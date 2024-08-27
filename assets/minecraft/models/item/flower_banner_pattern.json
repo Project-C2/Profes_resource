@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/flower_banner_pattern"
+  },
+  "overrides": [
+  {"predicate": {"custom_model_data": 2},"model": "item/---"},
+  {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"}
+]
+}
