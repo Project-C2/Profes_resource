@@ -5,6 +5,13 @@
   },
   "overrides": [
   {"predicate": {"custom_model_data": 2},"model": "item/---"},
-  {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"}
+  {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"},
+  {"predicate": {"custom_model_data": 102441},"model": "item/job/024/dragon_slash_1"},
+  {"predicate": {"custom_model_data": 102442},"model": "item/job/024/dragon_slash_2"},
+  {"predicate": {"custom_model_data": 102443},"model": "item/job/024/dragon_slash_3"},
+  {"predicate": {"custom_model_data": 102444},"model": "item/job/024/dragon_slash_4"},
+  {"predicate": {"custom_model_data": 102445},"model": "item/job/024/dragon_slash_5"},
+  {"predicate": {"custom_model_data": 102446},"model": "item/job/024/dragon_slash_6"},
+  {"predicate": {"custom_model_data": 102447},"model": "item/job/024/dragon_slash_7"}
 ]
 }
