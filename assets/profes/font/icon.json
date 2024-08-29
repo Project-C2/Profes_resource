@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "profes:font/icon/1.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "profes:font/icon/2.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "profes:font/icon/3.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "profes:font/icon/4.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue004"
+            ]
+        }
+    ]
+}
