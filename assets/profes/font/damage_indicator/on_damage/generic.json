@@ -1,14 +1,5 @@
 {
     "providers": [
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/0.png","ascent": 20,"height": 20,"chars": ["0"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/1.png","ascent": 20,"height": 20,"chars": ["1"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/2.png","ascent": 20,"height": 20,"chars": ["2"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/3.png","ascent": 20,"height": 20,"chars": ["3"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/4.png","ascent": 20,"height": 20,"chars": ["4"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/5.png","ascent": 20,"height": 20,"chars": ["5"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/6.png","ascent": 20,"height": 20,"chars": ["6"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/7.png","ascent": 20,"height": 20,"chars": ["7"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/8.png","ascent": 20,"height": 20,"chars": ["8"]},
-        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic/9.png","ascent": 20,"height": 20,"chars": ["9"]}
+        {"type": "bitmap","file": "profes:font/damage_indicator/on_damage/generic.png","ascent": 20,"height": 20,"chars": ["0123456789"]}
     ]
 }

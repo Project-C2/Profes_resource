@@ -1,0 +1,5 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "profes:font/damage_indicator/heal/generic.png","ascent": 20,"height": 20,"chars": ["0123456789"]}
+    ]
+}
