@@ -28,7 +28,6 @@
         {"type":"bitmap","file":"profes:font/actionbar/tp/18.png","ascent":0,"height":22,"chars":["\ue018"]},
         {"type":"bitmap","file":"profes:font/actionbar/tp/19.png","ascent":0,"height":22,"chars":["\ue019"]},
         {"type":"bitmap","file":"profes:font/actionbar/tp/20.png","ascent":0,"height":22,"chars":["\ue020"]},
-        {"type":"bitmap","file":"profes:font/actionbar/tp/21.png","ascent":0,"height":22,"chars":["\ue021"]},
         {"type":"space","advances":{
             "\uf000":-1,
             "\uf001":-2,
@@ -50,8 +49,7 @@
             "\uf017":-18,
             "\uf018":-19,
             "\uf019":-20,
-            "\uf020":-21,
-            "\uf021":-22
+            "\uf020":-21
             }
         },
         {
