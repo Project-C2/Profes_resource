@@ -4,6 +4,7 @@
 		"layer0": "item/netherite_boots"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "system/stats" }
+		{ "predicate": { "custom_model_data": 1}, "model": "system/stats" },
+		{ "predicate": { "custom_model_data": 2}, "model": "system/death_cross" }
 	]
 }
