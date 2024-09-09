@@ -5,6 +5,11 @@
   },
   "overrides": [
   {"predicate": {"custom_model_data": 2},"model": "item/---"},
+  {"predicate": {"custom_model_data": 100901},"model": "item/job/009/shield"},
+  {"predicate": {"custom_model_data": 101100},"model": "item/job/011/artifact"},
+  {"predicate": {"custom_model_data": 101501},"model": "item/job/015/apocalypse"},
+  {"predicate": {"custom_model_data": 101531},"model": "item/job/015/tank_area"},
+  {"predicate": {"custom_model_data": 101532},"model": "item/job/015/phoenix_ruin"},
   {"predicate": {"custom_model_data": 102100},"model": "item/job/021/0"},
   {"predicate": {"custom_model_data": 102101},"model": "item/job/021/1-1"},
   {"predicate": {"custom_model_data": 102102},"model": "item/job/021/1-2"},
@@ -29,6 +34,11 @@
   {"predicate": {"custom_model_data": 102445},"model": "item/job/024/dragon_slash_5"},
   {"predicate": {"custom_model_data": 102446},"model": "item/job/024/dragon_slash_6"},
   {"predicate": {"custom_model_data": 102447},"model": "item/job/024/dragon_slash_7"},
-  {"predicate": {"custom_model_data": 102601},"model": "item/job/026/rhapsody"}
+  {"predicate": {"custom_model_data": 102601},"model": "item/job/026/rhapsody"},
+  {"predicate": {"custom_model_data": 103011},"model": "item/job/030/circle1"},
+  {"predicate": {"custom_model_data": 103012},"model": "item/job/030/circle2"},
+  {"predicate": {"custom_model_data": 103013},"model": "item/job/030/circle3"},
+  {"predicate": {"custom_model_data": 103020},"model": "item/job/030/lament_smoke"},
+  {"predicate": {"custom_model_data": 103050},"model": "item/job/030/soul_stream"}
 ]
 }
