@@ -26,6 +26,8 @@
   {"predicate": {"custom_model_data": 102113},"model": "item/job/021/3-3"},
   {"predicate": {"custom_model_data": 102114},"model": "item/job/021/3-4"},
   {"predicate": {"custom_model_data": 102115},"model": "item/job/021/3-5"},
+  {"predicate": {"custom_model_data": 102116},"model": "item/job/021/aura"},
+  {"predicate": {"custom_model_data": 102117},"model": "item/job/021/magiccircle"},
   {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"},
   {"predicate": {"custom_model_data": 102441},"model": "item/job/024/dragon_slash_1"},
   {"predicate": {"custom_model_data": 102442},"model": "item/job/024/dragon_slash_2"},
