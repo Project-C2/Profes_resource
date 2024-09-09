@@ -5,6 +5,7 @@
   },
   "overrides": [
   {"predicate": {"custom_model_data": 2},"model": "item/---"},
+  {"predicate": {"custom_model_data": 100901},"model": "item/job/009/shield"},
   {"predicate": {"custom_model_data": 101100},"model": "item/job/011/artifact"},
   {"predicate": {"custom_model_data": 101501},"model": "item/job/015/apocalypse"},
   {"predicate": {"custom_model_data": 101531},"model": "item/job/015/tank_area"},
