@@ -130,25 +130,25 @@
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "-001.forge",
       "prefix": "-001.forge/"
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "hats",
       "prefix": "hats/"
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "custom_particle",
       "prefix": "custom_particle/"
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "manual",
       "prefix": "manual/"
     }
