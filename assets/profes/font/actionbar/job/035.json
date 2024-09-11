@@ -1,18 +1,18 @@
 {
     "providers": [
-        {"type":"space","advances":{"\u0001":6},"comment":"pre offset"},
-        {"type":"space","advances":{"\u0002":-6},"comment":"post offset"},
+        {"type":"space","advances":{"\u0001":12},"comment":"pre offset"},
+        {"type":"space","advances":{"\u0002":-12},"comment":"post offset"},
         {"type":"space","advances":{"\u0005":-120.3},"comment":"postfix"},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/0.png","ascent":-15,"height":20,"chars":["\ue000"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/1.png","ascent":-15,"height":20,"chars":["\ue001"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/2.png","ascent":-15,"height":20,"chars":["\ue002"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/3.png","ascent":-15,"height":20,"chars":["\ue003"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/4.png","ascent":-15,"height":20,"chars":["\ue004"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/5.png","ascent":-15,"height":20,"chars":["\ue005"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/6.png","ascent":-15,"height":20,"chars":["\ue006"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/7.png","ascent":-15,"height":20,"chars":["\ue007"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/8.png","ascent":-15,"height":20,"chars":["\ue008"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/9.png","ascent":-15,"height":20,"chars":["\ue009"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/035/10.png","ascent":-15,"height":20,"chars":["\ue010"]}
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/0.png","ascent":-18,"height":20,"chars":["\ue000"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/1.png","ascent":-18,"height":20,"chars":["\ue001"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/2.png","ascent":-18,"height":20,"chars":["\ue002"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/3.png","ascent":-18,"height":20,"chars":["\ue003"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/4.png","ascent":-18,"height":20,"chars":["\ue004"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/5.png","ascent":-18,"height":20,"chars":["\ue005"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/6.png","ascent":-18,"height":20,"chars":["\ue006"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/7.png","ascent":-18,"height":20,"chars":["\ue007"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/8.png","ascent":-18,"height":20,"chars":["\ue008"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/9.png","ascent":-18,"height":20,"chars":["\ue009"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/035/10.png","ascent":-18,"height":20,"chars":["\ue010"]}
     ]
 }
