@@ -5,7 +5,7 @@
         {"type":"space","advances":{"\u0003":3},"comment":"gauge_to_num"},
         {"type":"space","advances":{"\u0004":3},"comment":"mana to num"},
         {"type":"space","advances":{"\u0005":-110},"comment":"postfix"},
-        {"type":"bitmap","file":"profes:font/actionbar/mana/background.png","ascent":-22,"height":12,"chars":["\ud000"]},
+        {"type":"bitmap","file":"profes:font/actionbar/job/026/background.png","ascent":-22,"height":12,"chars":["\ud000"]},
         {"type":"space","advances":{"\ud001":-105}},
         {"type":"bitmap","file":"profes:font/actionbar/mana/edge.png","ascent":-22,"height":12,"chars":["\ud002"]},
         {"type":"bitmap","file":"profes:font/actionbar/mana/0.png","ascent":-22,"height":12,"chars":["\ue000"]},
