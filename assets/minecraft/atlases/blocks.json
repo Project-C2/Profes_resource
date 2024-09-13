@@ -33,6 +33,11 @@
       "prefix": "job/"
     },
     {
+      "type": "directory",
+      "source": "ender_chest",
+      "prefix": "ender_chest/"
+    },
+    {
         "type": "paletted_permutations",
         "textures": [
             "trims/items/leggings_trim",
