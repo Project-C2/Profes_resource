@@ -27,6 +27,7 @@
   {"predicate": {"custom_model_data": 104000},"model": "item/job/040/anchor"},
   {"predicate": {"custom_model_data": 104020},"model": "item/job/040/harpoon_bullet"},
   {"predicate": {"custom_model_data": 104030},"model": "item/job/040/deep_sea_detonator"},
+  {"predicate": {"custom_model_data": 104120},"model": "item/job/041/buzz_saw"},
   {"predicate": {"custom_model_data": 200000},"model": "item/---"},
   {"predicate": {"custom_model_data": 999999},"model": "item/---"}
 ]
