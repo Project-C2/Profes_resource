@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ender_chest/2"
+		"layer0": "ender_chest/cosmetics/on"
 	}
 }

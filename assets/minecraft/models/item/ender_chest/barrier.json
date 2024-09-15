@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ender_chest/1"
+		"layer0": "ender_chest/barrier"
 	}
 }
