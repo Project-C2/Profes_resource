@@ -19,6 +19,7 @@
   {"predicate": {"custom_model_data": 102446},"model": "item/job/024/dragon_slash_6"},
   {"predicate": {"custom_model_data": 102447},"model": "item/job/024/dragon_slash_7"},
   {"predicate": {"custom_model_data": 102602},"model": "item/job/026/spirit"},
+  {"predicate": {"custom_model_data": 102902},"model": "item/job/029/3"},
   {"predicate": {"custom_model_data": 103011},"model": "item/job/030/circle1"},
   {"predicate": {"custom_model_data": 103012},"model": "item/job/030/circle2"},
   {"predicate": {"custom_model_data": 103013},"model": "item/job/030/circle3"},
