@@ -1,0 +1,24 @@
+{
+    "providers": [
+        {"type":"space","advances":{"\u0001":12},"comment":"pre offset"},
+        {"type":"space","advances":{"\u0002":-12},"comment":"post offset"},
+        {"type":"space","advances":{"\u0005":-120.3},"comment":"postfix"},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/0.png","ascent":-8,"height":32,"chars":["\ue000"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/1.png","ascent":-8,"height":32,"chars":["\ue001"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/2.png","ascent":-8,"height":32,"chars":["\ue002"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/3.png","ascent":-8,"height":32,"chars":["\ue003"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/4.png","ascent":-8,"height":32,"chars":["\ue004"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/5.png","ascent":-8,"height":32,"chars":["\ue005"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/6.png","ascent":-8,"height":32,"chars":["\ue006"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/7.png","ascent":-8,"height":32,"chars":["\ue007"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/8.png","ascent":-8,"height":32,"chars":["\ue008"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/9.png","ascent":-8,"height":32,"chars":["\ue009"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/10.png","ascent":-8,"height":32,"chars":["\ue010"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/0_energy.png","ascent":-22,"height":12,"chars":["\ue020"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/1_energy.png","ascent":-22,"height":12,"chars":["\ue021"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/2_energy.png","ascent":-22,"height":12,"chars":["\ue022"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/3_energy.png","ascent":-22,"height":12,"chars":["\ue023"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/4_energy.png","ascent":-22,"height":12,"chars":["\ue024"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/041/5_energy.png","ascent":-22,"height":12,"chars":["\ue020"]}
+    ]
+}

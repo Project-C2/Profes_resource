@@ -33,6 +33,11 @@
       "prefix": "job/"
     },
     {
+      "type": "directory",
+      "source": "ender_chest",
+      "prefix": "ender_chest/"
+    },
+    {
         "type": "paletted_permutations",
         "textures": [
             "trims/items/leggings_trim",
@@ -130,25 +135,25 @@
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "-001.forge",
       "prefix": "-001.forge/"
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "hats",
       "prefix": "hats/"
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "custom_particle",
       "prefix": "custom_particle/"
     },
     {
       "type": "directory",
-      "namespace":"antelope",
+      "namespace":"profes",
       "source": "manual",
       "prefix": "manual/"
     }
