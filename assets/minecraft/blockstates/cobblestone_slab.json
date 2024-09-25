@@ -3,9 +3,17 @@
     "type=bottom": {
       "model": "minecraft:block/cobblestone_slab"
     },
-    "type=double": {
-      "model": "minecraft:block/cobblestone_slab_double"
-    },
+    "type=double": [
+      {
+        "model": "minecraft:block/cosmic1"
+      },
+      {
+        "model": "minecraft:block/cosmic2"
+      },
+      {
+        "model": "minecraft:block/cosmic3"
+      }
+    ],
     "type=top": {
       "model": "minecraft:block/cobblestone_slab_top"
     }
