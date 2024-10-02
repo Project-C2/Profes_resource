@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "job/037/tokei",
-		"particle": "job/037/tokei"
+		"0": "job/039/tokei",
+		"particle": "job/039/tokei"
 	},
 	"elements": [
 		{
