@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "job/037/gensoku",
-		"1": "job/037/gensoku_2",
-		"particle": "job/037/gensoku"
+		"0": "job/039/kasoku",
+		"1": "job/039/kasoku_2",
+		"particle": "job/039/kasoku"
 	},
 	"elements": [
 		{

@@ -38,6 +38,11 @@
       "prefix": "ender_chest/"
     },
     {
+      "type": "directory",
+      "source": "spawn_item",
+      "prefix": "spawn_item/"
+    },
+    {
         "type": "paletted_permutations",
         "textures": [
             "trims/items/leggings_trim",
