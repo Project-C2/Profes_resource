@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"0": "antelope:custom_particle/lightning/0",
-		"1": "antelope:custom_particle/lightning/2",
-		"particle": "antelope:custom_particle/lightning/0"
+		"0": "profes:custom_particle/lightning/0",
+		"1": "profes:custom_particle/lightning/2",
+		"particle": "profes:custom_particle/lightning/0"
 	},
 	"elements": [
 		{

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/leather_horse_armor"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 100000},"model": "profes:particle/slash"},
+		{"predicate": {"custom_model_data": 100001},"model": "profes:particle/lightning_white"},
+		{"predicate": {"custom_model_data": 100002},"model": "profes:particle/lightning_black"}
+	]
+}
