@@ -33,7 +33,7 @@
   {"predicate": {"custom_model_data": 102120},"model": "item/job/021/haste"},
   {"predicate": {"custom_model_data": 102121},"model": "item/job/021/protect"},
   {"predicate": {"custom_model_data": 102122},"model": "item/job/021/life"},
-  {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"},
+  {"predicate": {"custom_model_data": 102401},"model": "item/job/024/dragon_kenki"},
   {"predicate": {"custom_model_data": 102441},"model": "item/job/024/dragon_slash_1"},
   {"predicate": {"custom_model_data": 102442},"model": "item/job/024/dragon_slash_2"},
   {"predicate": {"custom_model_data": 102443},"model": "item/job/024/dragon_slash_3"},
