@@ -35,6 +35,7 @@
   {"predicate": {"custom_model_data": 102122},"model": "item/job/021/life"},
   {"predicate": {"custom_model_data": 102123},"model": "item/job/021/sonic_boom"},
   {"predicate": {"custom_model_data": 102124},"model": "item/job/021/wind_lance"},
+  {"predicate": {"custom_model_data": 102125},"model": "item/job/021/feather"},
   {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"},
   {"predicate": {"custom_model_data": 102401},"model": "item/job/024/dragon_kenki"},
   {"predicate": {"custom_model_data": 102441},"model": "item/job/024/dragon_slash_1"},
