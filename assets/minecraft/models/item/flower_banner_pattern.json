@@ -50,6 +50,7 @@
   {"predicate": {"custom_model_data": 103013},"model": "item/job/030/circle3"},
   {"predicate": {"custom_model_data": 103020},"model": "item/job/030/lament_smoke"},
   {"predicate": {"custom_model_data": 103050},"model": "item/job/030/soul_stream"},
+  {"predicate": {"custom_model_data": 103701},"model": "item/job/037/blanc_meteor"},
   {"predicate": {"custom_model_data": 103900},"model": "item/job/039/longhand"},
   {"predicate": {"custom_model_data": 103901},"model": "item/job/039/longhand_clear"},
   {"predicate": {"custom_model_data": 103902},"model": "item/job/039/circle"},
