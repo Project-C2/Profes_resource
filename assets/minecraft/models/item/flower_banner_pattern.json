@@ -40,6 +40,7 @@
   {"predicate": {"custom_model_data": 104120},"model": "item/job/041/buzz_saw"},
   {"predicate": {"custom_model_data": 104320},"model": "item/job/043/blood_orb"},
   {"predicate": {"custom_model_data": 104321},"model": "item/job/043/blood_orb_full"},
+  {"predicate": {"custom_model_data": 104520},"model": "item/job/045/gennei"},
   {"predicate": {"custom_model_data": 104701},"model": "item/job/047/dice"},
   {"predicate": {"custom_model_data": 200000},"model": "item/---"},
   {"predicate": {"custom_model_data": 999999},"model": "item/---"}
