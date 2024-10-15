@@ -40,6 +40,7 @@
   {"predicate": {"custom_model_data": 102127},"model": "item/job/021/song2"},
   {"predicate": {"custom_model_data": 102128},"model": "item/job/021/song3"},
   {"predicate": {"custom_model_data": 102129},"model": "item/job/021/song4"},
+  {"predicate": {"custom_model_data": 102130},"model": "item/job/021/song5"},
   {"predicate": {"custom_model_data": 102400},"model": "item/job/024/dragon"},
   {"predicate": {"custom_model_data": 102401},"model": "item/job/024/dragon_kenki"},
   {"predicate": {"custom_model_data": 102441},"model": "item/job/024/dragon_slash_1"},
