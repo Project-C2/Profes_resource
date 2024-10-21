@@ -5,8 +5,10 @@
     {"type":"space","advances":{"\u0003":-83},"comment":"fix"},
 	{"type":"space","advances":{"\u0004":20},"comment":"3桁詰め"},
     {"type":"space","advances":{"\u0005":8},"comment":"1桁詰め"},
+    {"type":"space","advances":{"\u0006":1},"comment":"1桁詰め"},
 	{"type":"space","advances":{"-":6},"comment":"1文字詰め"},
-        {"type":"bitmap","file":"minecraft:coin/1.png","ascent":-48,"height":16,"chars":["\ue000"]},
+        {"type":"bitmap","file":"minecraft:mob_effect/strength.png","ascent":-48,"height":16,"chars":["\ue000"]},
+        {"type":"bitmap","file":"minecraft:mob_effect/weakness.png","ascent":-48,"height":16,"chars":["\ue001"]},
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
