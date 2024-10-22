@@ -78,6 +78,8 @@
   {"predicate": {"custom_model_data": 104321},"model": "item/job/043/blood_orb_full"},
   {"predicate": {"custom_model_data": 104520},"model": "item/job/045/gennei"},
   {"predicate": {"custom_model_data": 104701},"model": "item/job/047/dice"},
+  {"predicate": {"custom_model_data": 104900},"model": "item/job/049/melee_standby"},
+  {"predicate": {"custom_model_data": 104901},"model": "item/job/049/ranged_standby"},
   {"predicate": {"custom_model_data": 200000},"model": "item/---"},
   {"predicate": {"custom_model_data": 999999},"model": "item/---"}
 ]
