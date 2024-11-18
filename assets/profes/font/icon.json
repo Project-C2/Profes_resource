@@ -35,6 +35,15 @@
             "chars": [
                 "\ue004"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "profes:font/icon/5.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue005"
+            ]
         }
     ]
 }
