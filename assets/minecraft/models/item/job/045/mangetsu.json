@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "job/045/mangetsu"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [44, 81, 0],
+			"translation": [0, 6.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-121, -81, 22],
+			"translation": [-1.75, 5, 3.25]
+		},
+		"ground": {
+			"rotation": [0, 0, -47]
+		},
+		"head": {
+			"rotation": [-36, -13, 0]
+		}
+	}
+}
