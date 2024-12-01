@@ -87,6 +87,9 @@
   {"predicate": {"custom_model_data": 104701},"model": "item/job/047/dice"},
   {"predicate": {"custom_model_data": 104900},"model": "item/job/049/melee_standby"},
   {"predicate": {"custom_model_data": 104901},"model": "item/job/049/ranged_standby"},
+  {"predicate": {"custom_model_data": 106621},"model": "item/job/066/circle1"},
+  {"predicate": {"custom_model_data": 106622},"model": "item/job/066/circle2"},
+  {"predicate": {"custom_model_data": 106623},"model": "item/job/066/circle3"},
   {"predicate": {"custom_model_data": 200000},"model": "item/---"},
   {"predicate": {"custom_model_data": 999999},"model": "item/---"}
 ]
