@@ -5,6 +5,7 @@
   },
   "overrides": [
   {"predicate": {"custom_model_data": 101800},"model": "item/job/018/knife"},
+  {"predicate": {"custom_model_data": 102400},"model": "item/job/024/drake_sword"},
   {"predicate": {"custom_model_data": 104500},"model": "item/job/045/hakugetsu"},
   {"predicate": {"custom_model_data": 106600},"model": "item/job/066/curtana"}
 ]
