@@ -11,6 +11,11 @@
 	{"type":"bitmap","file":"profes:font/actionbar/job/046/dark.png","ascent":-10,"height":22,"chars":["\ue002"]},
 	{"type":"bitmap","file":"profes:font/actionbar/job/046/fire.png","ascent":-10,"height":22,"chars":["\ue003"]},
 	{"type":"bitmap","file":"profes:font/actionbar/job/046/air.png","ascent":-10,"height":22,"chars":["\ue004"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/046/none2.png","ascent":-10,"height":22,"chars":["\ue005"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/046/ice2.png","ascent":-10,"height":22,"chars":["\ue006"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/046/dark2.png","ascent":-10,"height":22,"chars":["\ue007"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/046/fire2.png","ascent":-10,"height":22,"chars":["\ue008"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/046/air2.png","ascent":-10,"height":22,"chars":["\ue009"]},
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
