@@ -10,6 +10,7 @@
   {"predicate": {"custom_model_data": 101501},"model": "item/job/015/apocalypse"},
   {"predicate": {"custom_model_data": 101531},"model": "item/job/015/tank_area"},
   {"predicate": {"custom_model_data": 101532},"model": "item/job/015/phoenix_ruin"},
+  {"predicate": {"custom_model_data": 101900},"model": "item/job/019/sinmora"},
   {"predicate": {"custom_model_data": 102100},"model": "item/job/021/0"},
   {"predicate": {"custom_model_data": 102101},"model": "item/job/021/1-1"},
   {"predicate": {"custom_model_data": 102102},"model": "item/job/021/1-2"},
