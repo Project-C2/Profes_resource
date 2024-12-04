@@ -1,0 +1,100 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/flower_banner_pattern"
+    },
+    "cases": [
+      {
+        "when": "head",
+        "model": {
+          "type": "special",
+          "base": "player_display:head",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "torso",
+        "model": {
+          "type": "special",
+          "base": "player_display:torso",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "left_arm",
+        "model": {
+          "type": "special",
+          "base": "player_display:left_arm",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "right_arm",
+        "model": {
+          "type": "special",
+          "base": "player_display:right_arm",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "slim_left",
+        "model": {
+          "type": "special",
+          "base": "player_display:slim_left",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "slim_right",
+        "model": {
+          "type": "special",
+          "base": "player_display:slim_right",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "left_leg",
+        "model": {
+          "type": "special",
+          "base": "player_display:left_leg",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      },
+      {
+        "when": "right_leg",
+        "model": {
+          "type": "special",
+          "base": "player_display:right_leg",
+          "model": {
+            "type": "head",
+            "kind": "player"
+          }
+        }
+      }
+    ]
+  }
+}
