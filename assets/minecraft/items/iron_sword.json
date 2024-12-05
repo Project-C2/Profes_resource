@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_sword"
+    },
+    "entries": [
+      { "threshold": 2, "model": { "type": "model", "model": "item/---"}},
+      { "threshold": 101800, "model": { "type": "model", "model": "item/job/018/knife"}},
+      { "threshold": 102400, "model": { "type": "model", "model": "item/job/024/drake_sword"}},
+      { "threshold": 104500, "model": { "type": "model", "model": "item/job/045/hakugetsu"}},
+      { "threshold": 106600, "model": { "type": "model", "model": "item/job/066/curtana"}},
+      { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
+      { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
+    ]
+  }
+}
