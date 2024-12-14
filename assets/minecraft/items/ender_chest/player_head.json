@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "composite",
+		"models": [
+			{
+				"type": "model",
+				"model": "ender_chest/empty"
+			},
+			{
+				"type": "special",
+				"base": "item/template_skull",
+				"model": {
+					"type": "head",
+					"kind": "player"
+				}
+			}
+		]
+	}
+}

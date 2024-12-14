@@ -2,5 +2,8 @@
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "ender_chest/empty"
+	},
+	"display": {
+		"gui": {"translation": [0,0,-80]}
 	}
 }
