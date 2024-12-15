@@ -111,6 +111,7 @@
       { "threshold": 106000, "model": { "type": "model", "model": "item/job/060/gun"}},
       { "threshold": 106100, "model": { "type": "model", "model": "item/job/061/staff"}},
       { "threshold": 106400, "model": { "type": "model", "model": "item/job/064/gun"}},
+      { "threshold": 106401, "model": { "type": "model", "model": "item/job/064/card"}},
       { "threshold": 106621, "model": { "type": "model", "model": "item/job/066/circle1"}},
       { "threshold": 106622, "model": { "type": "model", "model": "item/job/066/circle2"}},
       { "threshold": 106623, "model": { "type": "model", "model": "item/job/066/circle3"}},
