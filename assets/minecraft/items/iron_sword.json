@@ -12,6 +12,7 @@
       { "threshold": 102400, "model": { "type": "model", "model": "item/job/024/drake_sword"}},
       { "threshold": 104500, "model": { "type": "model", "model": "item/job/045/hakugetsu"}},
       { "threshold": 106600, "model": { "type": "model", "model": "item/job/066/curtana"}},
+      { "threshold": 107800, "model": { "type": "model", "model": "item/job/078/sword"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
     ]

@@ -108,9 +108,13 @@
       { "threshold": 104701, "model": { "type": "model", "model": "item/job/047/dice"}},
       { "threshold": 104900, "model": { "type": "model", "model": "item/job/049/melee_standby"}},
       { "threshold": 104901, "model": { "type": "model", "model": "item/job/049/ranged_standby"}},
+      { "threshold": 106000, "model": { "type": "model", "model": "item/job/060/gun"}},
+      { "threshold": 106100, "model": { "type": "model", "model": "item/job/061/staff"}},
+      { "threshold": 106400, "model": { "type": "model", "model": "item/job/064/gun"}},
       { "threshold": 106621, "model": { "type": "model", "model": "item/job/066/circle1"}},
       { "threshold": 106622, "model": { "type": "model", "model": "item/job/066/circle2"}},
       { "threshold": 106623, "model": { "type": "model", "model": "item/job/066/circle3"}},
+      { "threshold": 106700, "model": { "type": "model", "model": "item/job/067/staff"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
     ]
