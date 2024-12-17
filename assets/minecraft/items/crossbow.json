@@ -1,0 +1,14 @@
+{
+    "model": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "item/crossbow"
+      },
+      "entries": [
+        { "threshold": 39, "model": { "type": "model", "model": "item/job/049/ranged_standby_use"}},
+        { "threshold": 39,"charged": 1, "model": { "type": "model", "model": "item/job/049/ranged_standby"}}
+      ]
+    }
+  }
