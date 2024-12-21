@@ -1,8 +1,10 @@
 {
     "providers": [
+	{"type":"space","advances":{"0":0}},
 	{"type":"space","advances":{"1":6},"comment":"半角文字調整用"},
 	{"type":"space","advances":{"2":12}},
 	{"type":"space","advances":{"3":18}},
-	{"type":"space","advances":{"4":24}}
+	{"type":"space","advances":{"4":24}},
+	{"type":"space","advances":{"5":30}}
     ]
 }
