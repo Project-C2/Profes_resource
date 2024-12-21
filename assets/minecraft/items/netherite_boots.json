@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_boots"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "system/stats"}},
+      { "threshold": 2, "model": { "type": "model", "model": "system/death_cross"}}
+    ]
+  }
+}
