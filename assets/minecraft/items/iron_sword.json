@@ -8,8 +8,13 @@
     },
     "entries": [
       { "threshold": 2, "model": { "type": "model", "model": "item/---"}},
+      { "threshold": 100902, "model": { "type": "model", "model": "item/job/009/lance"}},
+      { "threshold": 100903, "model": { "type": "model", "model": "item/job/009/lance2"}},
       { "threshold": 101800, "model": { "type": "model", "model": "item/job/018/knife"}},
       { "threshold": 102400, "model": { "type": "model", "model": "item/job/024/drake_sword"}},
+      { "threshold": 102900, "model": { "type": "model", "model": "item/job/029/sword"}},
+      { "threshold": 102901, "model": { "type": "model", "model": "item/job/029/sword2"}},
+      { "threshold": 104400, "model": { "type": "model", "model": "item/job/044/sword"}},
       { "threshold": 104500, "model": { "type": "model", "model": "item/job/045/hakugetsu"}},
       { "threshold": 106600, "model": { "type": "model", "model": "item/job/066/curtana"}},
       { "threshold": 107800, "model": { "type": "model", "model": "item/job/078/sword"}},
