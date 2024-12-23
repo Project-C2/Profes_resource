@@ -5,12 +5,13 @@
         {"type":"space","advances":{"\u0002":-13},"comment":"post offset"},
         {"type":"space","advances":{"\u0003":3},"comment":"gauge_to_num"},
         {"type":"space","advances":{"\u0004":3},"comment":"mana to num"},
-        {"type":"space","advances":{"\u0005":-102},"comment":"postfix"},
+        {"type":"space","advances":{"\u0005":-40},"comment":"postfix"},
+        {"type":"space","advances":{"\u0006":-118},"comment":"postfix"},
 
-        {"type":"bitmap","file":"profes:font/actionbar/job/070/sync.png","ascent":-2,"height":22,"chars":["\uc001"]},
-        {"type":"bitmap","file":"profes:font/actionbar/job/070/invert.png","ascent":-2,"height":22,"chars":["\uc011"]},
-        {"type":"bitmap","file":"profes:font/actionbar/job/070/play.png","ascent":-2,"height":22,"chars":["\uc002"]},
-        {"type":"bitmap","file":"profes:font/actionbar/job/070/stop.png","ascent":-2,"height":22,"chars":["\uc012"]},
+        {"type":"bitmap","file":"profes:font/actionbar/job/070/sync.png","ascent":0,"height":22,"chars":["\uc001"]},
+        {"type":"bitmap","file":"profes:font/actionbar/job/070/invert.png","ascent":0,"height":22,"chars":["\uc011"]},
+        {"type":"bitmap","file":"profes:font/actionbar/job/070/play.png","ascent":0,"height":22,"chars":["\uc002"]},
+        {"type":"bitmap","file":"profes:font/actionbar/job/070/stop.png","ascent":0,"height":22,"chars":["\uc012"]},
 
         {"type":"bitmap","file":"profes:font/actionbar/mana/background.png","ascent":-22,"height":12,"chars":["\ud000"]},
         {"type":"space","advances":{"\ud001":-105}},
