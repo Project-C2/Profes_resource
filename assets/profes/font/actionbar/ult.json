@@ -1,8 +1,8 @@
 {
     "providers": [
         {"type":"space","advances":{",":-1}},
-        {"type":"space","advances":{"\u0001":17},"comment":"pre offset"},
-        {"type":"space","advances":{"\u0002":-17},"comment":"post offset"},
+        {"type":"space","advances":{"\u0001":16},"comment":"pre offset"},
+        {"type":"space","advances":{"\u0002":-16},"comment":"post offset"},
         {"type":"space","advances":{"\u0004":2}},
         {"type":"space","advances":{"\u0005":-101}},
         {"type":"bitmap","file":"profes:font/actionbar/ult/background.png","ascent":-31,"height":4,"chars":["\ud000"]},
