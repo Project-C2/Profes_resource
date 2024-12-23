@@ -7,7 +7,7 @@
         {"type":"space","advances":{"\u0004":3},"comment":"mana to num"},
         {"type":"space","advances":{"\u0005":-40},"comment":"postfix"},
         {"type":"space","advances":{"\u0006":-118},"comment":"postfix"},
-        {"type":"space","advances":{"\u0007":116},"comment":"postfix"},
+        {"type":"space","advances":{"\u0007":117},"comment":"postfix"},
 
         {"type":"bitmap","file":"profes:font/actionbar/job/070/sync.png","ascent":0,"height":22,"chars":["\uc001"]},
         {"type":"bitmap","file":"profes:font/actionbar/job/070/invert.png","ascent":0,"height":22,"chars":["\uc011"]},
