@@ -109,6 +109,7 @@
       { "threshold": 104900, "model": { "type": "model", "model": "item/job/049/melee_standby"}},
       { "threshold": 104901, "model": { "type": "model", "model": "item/job/049/ranged_standby"}},
       { "threshold": 106000, "model": { "type": "model", "model": "item/job/060/gun"}},
+      { "threshold": 106003, "model": { "type": "model", "model": "item/job/060/sniper"}},
       { "threshold": 106100, "model": { "type": "model", "model": "item/job/061/staff"}},
       { "threshold": 106400, "model": { "type": "model", "model": "item/job/064/gun"}},
       { "threshold": 106401, "model": { "type": "model", "model": "item/job/064/card"}},
