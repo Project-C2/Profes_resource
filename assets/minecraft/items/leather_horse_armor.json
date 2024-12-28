@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+    "type": "model",
+    "model": "item/leather_horse_armor",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      }
+    ]
+    },
+    "entries": [
+    { "threshold": 100000, "model": { "type": "model", "model": "profes:particle/slash","tints":[{"type": "minecraft:dye","default": -6265536}]}},
+    { "threshold": 100001, "model": { "type": "model", "model": "profes:particle/lightning_white","tints":[{"type": "minecraft:dye","default": -6265536}]}},
+    { "threshold": 100002, "model": { "type": "model", "model": "profes:particle/lightning_black","tints":[{"type": "minecraft:dye","default": -6265536}]}}
+    ]
+  }
+}
