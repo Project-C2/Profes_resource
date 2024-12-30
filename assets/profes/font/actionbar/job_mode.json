@@ -1,0 +1,10 @@
+{
+    "providers": [
+	{"type":"space","advances":{"\u0001":103},"comment":"preoffset"},
+	{"type":"space","advances":{"\u0002":-103},"comment":"postoffset"},
+    {"type":"space","advances":{"\u0003":-17},"comment":"fix"},
+	{"type":"space","advances":{"-":6},"comment":"1文字詰め"},
+        {"type":"bitmap","file":"profes:font/actionbar/job_mode/0.png","ascent":-48,"height":16,"chars":["\ue000"]},
+        {"type":"bitmap","file":"profes:font/actionbar/job_mode/1.png","ascent":-48,"height":16,"chars":["\ue001"]}
+    ]
+}
