@@ -12,6 +12,8 @@
       { "threshold": 100903, "model": { "type": "model", "model": "item/job/009/lance2"}},
       { "threshold": 101800, "model": { "type": "model", "model": "item/job/018/knife"}},
       { "threshold": 102400, "model": { "type": "model", "model": "item/job/024/drake_sword"}},
+      { "threshold": 102700, "model": { "type": "model", "model": "item/job/027/normal/knife"}},
+      { "threshold": 102710, "model": { "type": "model", "model": "item/job/027/invisible/knife"}},
       { "threshold": 102900, "model": { "type": "model", "model": "item/job/029/sword"}},
       { "threshold": 102901, "model": { "type": "model", "model": "item/job/029/sword2"}},
       { "threshold": 104400, "model": { "type": "model", "model": "item/job/044/sword"}},
