@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "job/027/phone"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -148],
+			"translation": [0.5, -0.25, 6.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 163],
+			"translation": [0.5, -0.25, 6.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [40, -90, 113],
+			"translation": [6, 0, -5.25],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-40, -90, -67],
+			"translation": [6, 0, -5.25],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	}
+}
