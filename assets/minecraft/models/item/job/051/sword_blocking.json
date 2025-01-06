@@ -1,0 +1,15 @@
+{
+	"parent": "item/job/051/sword",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-5.25, 2, 0],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 5],
+			"translation": [-5.25, 2, 0],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	}
+}
