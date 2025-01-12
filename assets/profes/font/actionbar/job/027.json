@@ -16,6 +16,10 @@
 	{"type":"bitmap","file":"profes:font/actionbar/job/027/heart_aqua/3.png","ascent":20,"height":24,"chars":["\ue023"]},
 	{"type":"bitmap","file":"profes:font/actionbar/job/027/heart_aqua/4.png","ascent":20,"height":24,"chars":["\ue024"]},
 	{"type":"bitmap","file":"profes:font/actionbar/job/027/heart_aqua/5.png","ascent":20,"height":24,"chars":["\ue025"]},
-	{"type":"bitmap","file":"profes:font/actionbar/job/027/heart_aqua/6.png","ascent":20,"height":24,"chars":["\ue026"]}
+	{"type":"bitmap","file":"profes:font/actionbar/job/027/heart_aqua/6.png","ascent":20,"height":24,"chars":["\ue026"]},
+	{"type":"bitmap","file":"profes:font/actionbar/job/027/phone_notice.png","ascent":70,"height":96,"chars":["\ua000"]},
+	{"type":"space","advances":{"\ua001":-53}},
+	{"type":"space","advances":{"\ua002":52}},
+	{"type":"space","advances":{"\ua005":-96}}
     ]
 }
