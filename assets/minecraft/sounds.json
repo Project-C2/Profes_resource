@@ -141,6 +141,10 @@
   "profes.entity.phantom.flap.4": {"sounds": [{"name": "mob/phantom/flap4"}]},
   "profes.entity.phantom.flap.5": {"sounds": [{"name": "mob/phantom/flap5"}]},
   "profes.entity.phantom.flap.6": {"sounds": [{"name": "mob/phantom/flap6"}]},
+  "profes.entity.wither.ambient.1": {"sounds": [{"name": "mob/wither/idle1"}]},
+  "profes.entity.wither.ambient.2": {"sounds": [{"name": "mob/wither/idle2"}]},
+  "profes.entity.wither.ambient.3": {"sounds": [{"name": "mob/wither/idle3"}]},
+  "profes.entity.wither.ambient.4": {"sounds": [{"name": "mob/wither/idle4"}]},
   "profes_step1": {
     "sounds": [
       {
