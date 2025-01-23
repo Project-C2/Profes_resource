@@ -21,6 +21,10 @@
       { "threshold": 105100, "model": { "type": "condition","property": "using_item","on_false": {"type": "model","model": "item/job/051/sword"},"on_true": {"type": "model","model": "item/job/051/sword_blocking"}}},
       { "threshold": 105310, "model": { "type": "model", "model": "item/job/053/invisible/0"}},
       { "threshold": 106600, "model": { "type": "model", "model": "item/job/066/curtana"}},
+      { "threshold": 107702, "model": { "type": "model", "model": "item/job/077/sword1"}},
+      { "threshold": 107703, "model": { "type": "model", "model": "item/job/077/sword2"}},
+      { "threshold": 107704, "model": { "type": "model", "model": "item/job/077/sword3"}},
+      { "threshold": 107705, "model": { "type": "model", "model": "item/job/077/sword4"}},
       { "threshold": 107800, "model": { "type": "model", "model": "item/job/078/sword"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}

@@ -133,6 +133,12 @@
       { "threshold": 106622, "model": { "type": "model", "model": "item/job/066/circle2"}},
       { "threshold": 106623, "model": { "type": "model", "model": "item/job/066/circle3"}},
       { "threshold": 106700, "model": { "type": "model", "model": "item/job/067/staff"}},
+      { "threshold": 107700, "model": { "type": "model", "model": "item/job/077/circle"}},
+      { "threshold": 107701, "model": { "type": "model", "model": "item/job/077/projectile"}},
+      { "threshold": 208500, "model": { "type": "model", "model": "item/job/-085/arrow"}},
+      { "threshold": 208501, "model": { "type": "model", "model": "item/job/-085/light"}},
+      { "threshold": 208503, "model": { "type": "model", "model": "item/job/-085/divine"}},
+      { "threshold": 208504, "model": { "type": "model", "model": "item/job/-085/divine2"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
     ]
