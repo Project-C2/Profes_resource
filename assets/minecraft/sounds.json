@@ -145,6 +145,11 @@
   "profes.entity.wither.ambient.2": {"sounds": [{"name": "mob/wither/idle2"}]},
   "profes.entity.wither.ambient.3": {"sounds": [{"name": "mob/wither/idle3"}]},
   "profes.entity.wither.ambient.4": {"sounds": [{"name": "mob/wither/idle4"}]},
+  "profes.entity.evoker.prepare_attack.1": {"sounds": [{"name": "mob/evocation_illager/prepare_attack1"}]},
+  "profes.entity.evoker.prepare_attack.2": {"sounds": [{"name": "mob/evocation_illager/prepare_attack2"}]},
+  "profes.block.respawn_anchor.charge.1": {"sounds": [{"name": "block/respawn_anchor/charge1"}]},
+  "profes.block.respawn_anchor.charge.2": {"sounds": [{"name": "block/respawn_anchor/charge2"}]},
+  "profes.block.respawn_anchor.charge.3": {"sounds": [{"name": "block/respawn_anchor/charge3"}]},
   "profes_step1": {
     "sounds": [
       {
