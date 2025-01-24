@@ -1,0 +1,7 @@
+{
+	"parent": "item/job/054/razer/normal",
+	"textures": {
+		"0": "job/054/2",
+		"particle": "job/054/2"
+	}
+}
