@@ -59,7 +59,7 @@
             },
             "model": "item/crossbow_firework"
 		},
-		{ "predicate": {"custom_model_data": 39}, "model": "item/job/049/ranged_standby_use"},
-		{ "predicate": {"custom_model_data": 39,"charged": 1}, "model": "item/job/049/ranged_standby"}
+		{ "predicate": {"custom_model_data": 49}, "model": "item/job/049/ranged_standby_use"},
+		{ "predicate": {"custom_model_data": 49,"charged": 1}, "model": "item/job/049/ranged_standby"}
 	]
 }
