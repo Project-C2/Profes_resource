@@ -20,6 +20,7 @@
       { "threshold": 104500, "model": { "type": "model", "model": "item/job/045/hakugetsu"}},
       { "threshold": 105100, "model": { "type": "condition","property": "using_item","on_false": {"type": "model","model": "item/job/051/sword"},"on_true": {"type": "model","model": "item/job/051/sword_blocking"}}},
       { "threshold": 105310, "model": { "type": "model", "model": "item/job/053/invisible/0"}},
+      { "threshold": 106500, "model": { "type": "model", "model": "item/job/065/main"}},
       { "threshold": 106600, "model": { "type": "model", "model": "item/job/066/curtana"}},
       { "threshold": 107702, "model": { "type": "model", "model": "item/job/077/sword1"}},
       { "threshold": 107703, "model": { "type": "model", "model": "item/job/077/sword2"}},
