@@ -15,6 +15,7 @@ uniform sampler2D Sampler2;
 
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
+uniform mat4 TextureMat;
 
 uniform vec3 Light0_Direction;
 uniform vec3 Light1_Direction;
@@ -88,7 +89,11 @@ float fog_distance(vec3 pos, int shape) {
 
 
 void main() {
+#ifdef NO_CARDINAL_LIGHTING
+    vertexColor = Color;
+#else
     vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, normalize(Normal), Color);
+#endif
     lightMapColor = texelFetch(Sampler2, UV2 / 16, 0);
     overlayColor = texelFetch(Sampler1, UV1, 0);
     normal = ProjMat * ModelViewMat * vec4(Normal, 0.0);
@@ -97,11 +102,14 @@ void main() {
     ivec2 dim = textureSize(Sampler0, 0);
 
     if (ProjMat[2][3] == 0.0 || dim.x != 64 || dim.y != 64) { // short circuit if cannot be player
+        gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
         part = 0.0;
-        texCoord0 = UV0;
         texCoord1 = vec2(0.0);
         vertexDistance = fog_distance(Position, FogShape);
-        gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+        texCoord0 = UV0;
+#ifdef APPLY_TEXTURE_MATRIX
+        texCoord0 = (TextureMat * vec4(UV0, 0.0, 1.0)).xy;
+#endif
     }
     else {
         vec2 UVout = UV0;

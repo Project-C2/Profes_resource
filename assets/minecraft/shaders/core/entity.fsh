@@ -26,9 +26,11 @@ out vec4 fragColor;
 
 void main() {
     vec4 color = texture(Sampler0, texCoord0);
+#ifdef ALPHA_CUTOUT
     if (color.a < 0.1 || abs(mod(part + 0.5, 1.0) - 0.5) > 0.001) {
         discard;
     }
+#endif
     if (color.a < 1.0 && part > 0.5) {
         vec4 color2 = texture(Sampler0, texCoord1);
         if (color.a < 0.75 && int(gl_FragCoord.x + gl_FragCoord.y) % 2 == 0) {
@@ -41,7 +43,11 @@ void main() {
     }
 
     color *= vertexColor * ColorModulator;
+#ifndef NO_OVERLAY
     color.rgb = mix(overlayColor.rgb, color.rgb, overlayColor.a);
+#endif
+#ifndef EMISSIVE
     color *= lightMapColor;
+#endif
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
 }
