@@ -254,5 +254,12 @@
         "name": "se/explode2"
       }
     ]
+  },
+  "profes_old_steve": {
+    "sounds": [
+      {
+        "name": "se/old_steve"
+      }
+    ]
   }
 }
