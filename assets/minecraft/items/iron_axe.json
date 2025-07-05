@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_axe"
+    },
+    "entries": [
+      { "threshold": 2, "model": { "type": "model", "model": "item/---"}},
+      { "threshold": 110600, "model": { "type": "model", "model": "item/job/106/anchor"}}
+    ]
+  }
+}
