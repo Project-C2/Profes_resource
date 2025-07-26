@@ -13,8 +13,7 @@
           "type": "special",
           "base": "player_display:head",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -24,8 +23,7 @@
           "type": "special",
           "base": "player_display:torso",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -35,8 +33,7 @@
           "type": "special",
           "base": "player_display:left_arm",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -46,8 +43,7 @@
           "type": "special",
           "base": "player_display:right_arm",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -57,8 +53,7 @@
           "type": "special",
           "base": "player_display:slim_left",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -68,8 +63,7 @@
           "type": "special",
           "base": "player_display:slim_right",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -79,8 +73,7 @@
           "type": "special",
           "base": "player_display:left_leg",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       },
@@ -90,8 +83,7 @@
           "type": "special",
           "base": "player_display:right_leg",
           "model": {
-            "type": "head",
-            "kind": "player"
+            "type": "player_head"
           }
         }
       }
