@@ -39,21 +39,18 @@ out float part;
 #define SKINRES 64
 #define FACERES 8
 
-#define SLIMCHECK0 vec2(54.0 / float(SKINRES), 20.0 / float(SKINRES))
-#define SLIMCHECK1 vec2(55.0 / float(SKINRES), 20.0 / float(SKINRES))
-
 const vec4[] subuvs = vec4[](
     vec4(4.0,  0.0,  8.0,  4.0 ), // 4x4x12
     vec4(8.0,  0.0,  12.0, 4.0 ),
     vec4(0.0,  4.0,  4.0,  16.0),
     vec4(4.0,  4.0,  8.0,  16.0),
-    vec4(8.0,  4.0,  12.0, 16.0), 
-    vec4(12.0, 4.0,  16.0, 16.0), 
+    vec4(8.0,  4.0,  12.0, 16.0),
+    vec4(12.0, 4.0,  16.0, 16.0),
     vec4(4.0,  0.0,  7.0,  4.0 ), // 4x3x12
     vec4(7.0,  0.0,  10.0, 4.0 ),
     vec4(0.0,  4.0,  4.0,  16.0),
     vec4(4.0,  4.0,  7.0,  16.0),
-    vec4(7.0,  4.0,  11.0, 16.0), 
+    vec4(7.0,  4.0,  11.0, 16.0),
     vec4(11.0, 4.0,  14.0, 16.0),
     vec4(4.0,  0.0,  12.0, 4.0 ), // 4x8x12
     vec4(12.0,  0.0, 20.0, 4.0 ),
@@ -73,7 +70,11 @@ const vec2[] origins = vec2[](
     vec2(0.0,  16.0), // right leg
     vec2(0.0,  32.0),
     vec2(16.0, 48.0), // left leg
-    vec2(0.0,  48.0)
+    vec2(0.0,  48.0),
+    vec2(40.0, 16.0), // slim right arm
+    vec2(40.0, 32.0),
+    vec2(32.0, 48.0), // slim left arm
+    vec2(48.0, 48.0)
 );
 
 const int[] faceremap = int[](0, 0, 1, 1, 2, 3, 4, 5);
@@ -101,10 +102,8 @@ void main() {
 
         if (partId != 0) {
             partId -= 1;
-            vec4 samp1 = texture(Sampler0, SLIMCHECK0);
-            vec4 samp2 = texture(Sampler0, SLIMCHECK1);
-            bool slim = samp1.a == 0.0 || (((samp1.r + samp1.g + samp1.b) == 0.0) && ((samp2.r + samp2.g + samp2.b) == 0.0) && samp1.a == 1.0 && samp2.a == 1.0);
-            int partIdMod = partId % 5;
+            bool slim = partId >= 5;
+            int partIdMod = partId % 7;
             int outerLayer = (gl_VertexID / 24) % 2; 
             int vertexId = gl_VertexID % 4;
             int faceId = (gl_VertexID % 24) / 4;
@@ -128,7 +127,7 @@ void main() {
             faceId = faceremap[faceId];
             int subuvIndex = faceId;
 
-            if (slim && (partIdMod == 0 || partIdMod == 1)) { // select slim arms
+            if (slim && (partIdMod == 5 || partIdMod == 6)) { // select slim arms
                 subuvIndex += 6;
             }
             else if (partIdMod == 2) { // select torso
