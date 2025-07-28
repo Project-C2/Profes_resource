@@ -151,7 +151,6 @@
       { "threshold": 110006, "model": { "type": "model", "model": "item/job/100/robot_right_leg"}},
       { "threshold": 110007, "model": { "type": "model", "model": "item/job/100/robot_weapon"}},
       { "threshold": 110103, "model": { "type": "model", "model": "item/job/101/hu3"}},
-      { "threshold": 110500, "model": { "type": "model", "model": "item/job/105/hextech_rod"}},
       { "threshold": 208500, "model": { "type": "model", "model": "item/job/-085/arrow"}},
       { "threshold": 208501, "model": { "type": "model", "model": "item/job/-085/light"}},
       { "threshold": 208503, "model": { "type": "model", "model": "item/job/-085/divine"}},

@@ -6,7 +6,9 @@
       "type": "model",
       "model": "item/skull_banner_pattern"
     },
+    "hand_animation_on_swap": false,
     "entries": [
+      { "threshold": 110500, "model": { "type": "model", "model": "item/job/105/hextech_rod"}}
     ]
   }
 }
