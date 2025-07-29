@@ -155,6 +155,7 @@
       { "threshold": 208501, "model": { "type": "model", "model": "item/job/-085/light"}},
       { "threshold": 208503, "model": { "type": "model", "model": "item/job/-085/divine"}},
       { "threshold": 208504, "model": { "type": "model", "model": "item/job/-085/divine2"}},
+      { "threshold": 211302, "model": { "type": "model", "model": "item/job/113/smoke"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
     ]
