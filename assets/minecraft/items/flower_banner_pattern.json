@@ -155,7 +155,12 @@
       { "threshold": 208501, "model": { "type": "model", "model": "item/job/-085/light"}},
       { "threshold": 208503, "model": { "type": "model", "model": "item/job/-085/divine"}},
       { "threshold": 208504, "model": { "type": "model", "model": "item/job/-085/divine2"}},
-      { "threshold": 211302, "model": { "type": "model", "model": "item/job/113/smoke"}},
+      { "threshold": 111300, "model": { "type": "model", "model": "item/job/113/kunai"}},
+      { "threshold": 111301, "model": { "type": "model", "model": "item/job/113/tounge"}},
+      { "threshold": 111312, "model": { "type": "model", "model": "item/job/113/smoke"}},
+      { "threshold": 111302, "model": { "type": "model", "model": "item/job/113/smoke_bomb"}},
+      { "threshold": 111303, "model": { "type": "model", "model": "item/job/113/poison"}},
+      { "threshold": 111304, "model": { "type": "model", "model": "item/job/113/scroll"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
     ]
